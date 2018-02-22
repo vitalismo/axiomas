@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?mso-application progid="Excel.Sheet"?><Workbook xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:duss="urn:schemas-microsoft-com:office:dummyspreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+<Styles>
+<Style ss:ID="s16" ss:Name="attribute_cell">
+<Borders>
+<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+</Borders>
+</Style>
+<Style ss:ID="s17" ss:Name="attribute_header">
+<Borders>
+<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+</Borders>
+<Font ss:Bold="1"/>
+</Style>
+</Styles>
+<Worksheet ss:Name="FreeMind Sheet">
+<Table>
+<Row>
+<Cell ss:Index="1">
+<Data ss:Type="String">&lt;-- Comunidad --Vitalismo-- Axiomas --&gt;</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="2">
+<Data ss:Type="String">Conectividad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="3">
+<ss:Data xmlns="http://www.w3.org/TR/REC-html40" ss:Type="String">
+<p>Toda materia o información esta viva como nosotras, aunque no tenga tan complejos organismos, nervios o sentimientos</p>
+</ss:Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="3">
+<Data ss:Type="String">Plenitud</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="4">
+<Data ss:Type="String">Todo está lleno. El vacio o el infinito es un efecto percepcional. Mejor decir Vacio posicional que vacio existencial </Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="3">
+<Data ss:Type="String">Equilibrio</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="4">
+<Data ss:Type="String">Hay un total de energía tensionada que ni se crea ni se destruye, se transforma moviéndose entre polos</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="4">
+<Data ss:Type="String">Amorosidad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="5">
+<Data ss:Type="String">El amor es una mejor palabra que monismo, fuerza vital, movimiento, inercia o la entropia como fuente (y no como resto)</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="5">
+<Data ss:Type="String">Reductividad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="6">
+<Data ss:Type="String">Nada puede desear ni dejar de amar a lo que ama que amemos, tampoco nada puede amar a lo que no le ama </Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="3">
+<Data ss:Type="String">Unidad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="4">
+<Data ss:Type="String">Una supuesta separación permite la simulación de una experiencia con una determinada agencia</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="4">
+<Data ss:Type="String">Mejorabilidad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="5">
+<Data ss:Type="String">Esta galaxia es un laboratorio estable de un multiverso que se nos quiere llegar a mostrar como un ohmniverso supersimétrico</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="4">
+<Data ss:Type="String">Entrelazamiento</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="5">
+<Data ss:Type="String">Ningún fenómeno esta aislado del resto de eventos, la observación somos todas interactuando en grupo</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="5">
+<Data ss:Type="String">Escalabilidad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="6">
+<Data ss:Type="String">Átomos, planetas, conceptos, ideas funcionan con la misma mecánica escalada a diferentes proyecciones</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="6">
+<Data ss:Type="String">Integralidad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="7">
+<Data ss:Type="String">En todas las interacciones de la materia se siguen manifiestando los mismos principios fundamentales</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="4">
+<Data ss:Type="String">Reciprocidad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="5">
+<Data ss:Type="String">Acelerar un hadrón tira de la malla, lo ocultado también vibra, nada escapa a la ley del karma </Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="4">
+<Data ss:Type="String">Complementariedad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="5">
+<Data ss:Type="String">Yin Yangueado(+) y viceversa son dos constantes polarizadas también percibidas con dualidad (Yang-) percepcional difusa</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="5">
+<Data ss:Type="String">Accesibilidad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="6">
+<Data ss:Type="String">El Yang- es falta de Yang+ o de Yin, y sobretodo es falta de YinYang+</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="4">
+<Data ss:Type="String">Difusividad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="5">
+<Data ss:Type="String">Lo "único" o "diferente" es una percepción de una diferencia de cantidad de alguna de sus polaridades</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="2">
+<Data ss:Type="String">Collaborativity</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="3">
+<ss:Data xmlns="http://www.w3.org/TR/REC-html40" ss:Type="String">
+<p>We want to share friendly vibes within us, and with whoever reads us. Despite research being a competitive race by essence, a cooperative attitude is what guide us as a whole.</p>
+</ss:Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="2">
+<Data ss:Type="String">Free culture</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="3">
+<ss:Data xmlns="http://www.w3.org/TR/REC-html40" ss:Type="String">
+<p>All our promoted and produced contents will be released with open standards, with the public domain and-or with a free culture and-or free software licence conditions.</p>
+<p/>
+</ss:Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="2">
+<Data ss:Type="String">Rigourosity</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="3">
+<ss:Data xmlns="http://www.w3.org/TR/REC-html40" ss:Type="String">
+<p>Stands shouldn't have been already falsified, and they should always be open to be reviewed so key questions made to them have to be replied and criticisms documented</p>
+</ss:Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="2">
+<Data ss:Type="String">Simplicity</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="3">
+<ss:Data xmlns="http://www.w3.org/TR/REC-html40" ss:Type="String">
+<p>Our phrasings have to  be the more easily understood by the general public. More complex quotes reaffirming the stands are to be welcomed</p>
+</ss:Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="2">
+<Data ss:Type="String">Beautiful</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="3">
+<ss:Data xmlns="http://www.w3.org/TR/REC-html40" ss:Type="String">
+<p>Expressions should be open to be tunned with whatever other expressive mean, i.e. transmedia, multisensorial and poethical aesthetics are very welcomed</p>
+</ss:Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="2">
+<Data ss:Type="String">Crowdsourcing</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="3">
+<ss:Data xmlns="http://www.w3.org/TR/REC-html40" ss:Type="String">
+<p>Our productions should be open to be enriched the most peer-to-peer posible, we should develop strategic tools that could help theorists and researchers in this way.</p>
+</ss:Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="2">
+<Data ss:Type="String">Decentralization</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="3">
+<ss:Data xmlns="http://www.w3.org/TR/REC-html40" ss:Type="String">
+<p>While we shouldn't corporate all practical tools we individually want to develop, at least we should leave open for debate all practical ways for our community to thrive.</p>
+</ss:Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="2">
+<Data ss:Type="String">Aggregating</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="3">
+<ss:Data xmlns="http://www.w3.org/TR/REC-html40" ss:Type="String">
+<p>We should develop aggregators with publications of researchers, and update or fork inventories of related resources that pursue our aims</p>
+</ss:Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="2">
+<Data ss:Type="String">Ambition</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="3">
+<ss:Data xmlns="http://www.w3.org/TR/REC-html40" ss:Type="String">
+<p>We want this community to thrive and have the highest positive impact in society. We could have our own confort zones and affinity groups, but this community should be pursue</p>
+<p>constant updating and membership infinitiness</p>
+</ss:Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="2">
+<Data ss:Type="String">Evolution</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="3">
+<ss:Data xmlns="http://www.w3.org/TR/REC-html40" ss:Type="String">
+<p>While we see vitalist as a holistic theory, we can't expect in the short term to specify an integrality of practices within a natural law of universal categories,</p>
+<p>although we should help those developments in some way, yet to be further debated and specified, since they are our more thrilling challenge that as brave community we should not refuse to face.</p>
+</ss:Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="2">
+<Data ss:Type="String">Intencionalidad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="3">
+<Data ss:Type="String">Hay una fina configuración causal, para poder vivenciar esta realidad desde esta simulada libertad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="3">
+<Data ss:Type="String">Explicabilidad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="4">
+<Data ss:Type="String">La mas evolucionada complejidad se revela desde las mas simples realidades, por ejemplo títulos, diadas y triadas</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="4">
+<Data ss:Type="String">Naturalidad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="5">
+<Data ss:Type="String">Hay unas categorías universales simplificables que se pueden mecanizar en prácticas concretas</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="5">
+<Data ss:Type="String">Gramaticalidad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="6">
+<Data ss:Type="String">La física se puede axiomatizar (Hilbert 6 resuelto), hay una gramática universal (o lenguaje del amor) </Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="4">
+<Data ss:Type="String">Parcialidad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="5">
+<Data ss:Type="String"> Materia es información procesable. Antimateria, materia oscura y energia oscura nos es vida desconocida o inconocible </Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="4">
+<Data ss:Type="String">Palabrujas!</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="5">
+<Data ss:Type="String">Interactus es el HomoSapiens+ autoconsciente de que esté en un entorno de interacciones físicas unificadas</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="3">
+<Data ss:Type="String">Biocentricidad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="4">
+<Data ss:Type="String">Lo mas complejo material le es mas diréctamente recíproco a lo material mas simple y a lo mas complejo inmaterial </Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="4">
+<Data ss:Type="String">Honorabilidad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="5">
+<Data ss:Type="String">La complejización molecular (re)genera la gaiaxia (o suelo galáctico) y la utersión (o tensión universal) </Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="4">
+<Data ss:Type="String">Humildad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="5">
+<Data ss:Type="String">Aporias inconocibles nos guian, evolucionamos rápido por ser quién se imagina con menos miedos (=+Amor Verdadero) a sus desconocidos</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="4">
+<Data ss:Type="String">Evolución</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="5">
+<Data ss:Type="String">Continuidad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="6">
+<Data ss:Type="String">Nuestra vida es una continuación de una intención armoniosa que va evolucionando y complejizándose</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="5">
+<Data ss:Type="String">Razónabilidad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="6">
+<Data ss:Type="String">La materia mas compleja evoluciona a la necesidad de razonar para la compartición de datos revelados</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="6">
+<Data ss:Type="String">Colaboratividad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="7">
+<Data ss:Type="String">Somos los organismos mas capaces de unificar nuestra interactividad para aumentar la diversidad percepcional</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="6">
+<Data ss:Type="String">Poetividad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="7">
+<Data ss:Type="String">La razón es una tecnificación de la poesia, aumenta porqué sus analogías lo conectan todo con mucha mas facilidad </Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="5">
+<Data ss:Type="String">Finalidad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="6">
+<Data ss:Type="String">Interactuamos por amor para superar las interferencias causadas por los temores vibrados en nuestros organismos limitados</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="4">
+<Data ss:Type="String">Noeticidad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="5">
+<Data ss:Type="String">Las fenomenologias se explican desde nuestro vivir, la fuente es el alma de Gaia. Singularidad es una expresión Yangueada de ella</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="5">
+<Data ss:Type="String">Generología</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="6">
+<Data ss:Type="String">La historia se explica con la convivencia de energías femeninas y masculinas en organismos y sustancias</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="6">
+<Data ss:Type="String">+Feminidad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="7">
+<Data ss:Type="String">Tao, Todo o Queer es primario. Yin, Vida, Femenino es segundo. Yang, Mundo, Masculino es tercero</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="7">
+<Data ss:Type="String">Titularidad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="8">
+<Data ss:Type="String">Vida es el único empezador ontológico posible porque el Tao nos es inabarcable y el Yang es terciario</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="7">
+<Data ss:Type="String">Almismo</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="8">
+<Data ss:Type="String">Alma es Yin donde Conciencia es su versión Yang, bien lo saben mejor las mujeres. Vanguardia almista inicia guerra </Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="3">
+<Data ss:Type="String">Enfocabilidad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="4">
+<Data ss:Type="String">Atraemos lo que vibramos o las polaridades de lo que no humildamos integrado</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="4">
+<Data ss:Type="String">Debilidad</Data>
+</Cell>
+</Row>
+<Row>
+<Cell ss:Index="5">
+<Data ss:Type="String">Enfocar la mejora como una sanación o terapia muchas veces cocrea a la enfermedad</Data>
+</Cell>
+</Row>
+</Table>
+</Worksheet>
+</Workbook>
